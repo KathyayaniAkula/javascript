@@ -10,6 +10,11 @@ console.log(typeof null);
 d=undefined;
 console.log(typeof d);
 //Non primitive datatypes
-array=[56,86,34];
+array=[56,"john",true,null];
 console.log(typeof array);
-
+ {
+    name="john",
+    age="78",
+    dept="CSE",
+};
+console.log(typeof data);
